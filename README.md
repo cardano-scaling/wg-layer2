@@ -14,6 +14,7 @@ Welcome to the documentation repository of the Layer 2 working group. It holds d
 
 > Why is this working group needed?
 
+- Ensure interoperability across the various emerging Layer 2 projects
 - Break up silos and cross-pollinate projects across the broader domain of scaling Cardano transaction processing
 - Identify and scope _fundable features_ and projects related to Layer 2 technology to be ratified by the community (e.g. through intersect)
 - Open discussion and governance of the [hydra](https://github.com/cardano-scaling/hydra) project roadmap
