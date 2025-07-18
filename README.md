@@ -57,17 +57,17 @@ Welcome to the documentation repository of the Layer 2 working group. It holds d
 #### Members
 See also @wg-layer2 github team, in no particular order:
 - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
-- [George Flerovsky](https://github.com/GeorgeFlerovsky) (missed 3) <!-- george.flerovsky@gmail.com -->
+- [George Flerovsky](https://github.com/GeorgeFlerovsky) <!-- george.flerovsky@gmail.com -->
 - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
 - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
 - [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
-- [Pi Lanningham](https://github.com/Qantumplation) (missed 2) <!-- pi@sundae.fi -->
+- [Pi Lanningham](https://github.com/Qantumplation) <!-- pi@sundae.fi -->
 - [Ilia Rodionov](https://github.com/euonymos) <!-- ilia@mlabs.city -->
 - Franco Testagrossa <!-- franco.testagrossa@iohk.io -->
 - [Noon van der Silk](https://github.com/noonio) <!-- noon.vandersilk@iohk.io -->
 - [Trym Bruset](https://github.com/Trymyrt) <!-- trymyrt@gmail.com -->
-- [Caiña Costa](https://github.com/cfcosta) (missed 1) <!-- me@cfcosta.com -->
-- [Sam Leathers](https://github.com/disassembler) (missed 3) <!-- samuel.leathers@iohk.io -->
+- [Caiña Costa](https://github.com/cfcosta) <!-- me@cfcosta.com -->
+- [Sam Leathers](https://github.com/disassembler) <!-- samuel.leathers@iohk.io -->
 - Lucas Pedro <!-- lucas@45b.io -->
 - Sandip Pandey <!-- sandip@sireto.com -->
 - [Perry Wasserbauer](https://github.com/Pdest08) <!-- perry.wasserbauer@gmail.com -->
