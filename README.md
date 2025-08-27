@@ -58,6 +58,7 @@ Welcome to the documentation repository of the Layer 2 working group. It holds d
 See also @wg-layer2 github team, in no particular order:
 - [Sebastian Nagel](https://github.com/ch1bo) <!-- sebastian.nagel@ncoding.at -->
 - [George Flerovsky](https://github.com/GeorgeFlerovsky) <!-- george.flerovsky@gmail.com -->
+- [Dominic Wallis](https://github.com/waalge) <!-- waalge@proton.me -->
 - [Sasha Bogicevic](https://github.com/v0d1ch) <!-- sasha.bogicevic@iohk.io -->
 - Tudor Cotruta <!-- c.tudorcotruta@gmail.com -->
 - [Philip Di Sarro](https://github.com/Colll78) <!-- philipdisarro@gmail.com -->
