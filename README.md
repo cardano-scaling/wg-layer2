@@ -37,8 +37,8 @@ Welcome to the documentation repository of the Layer 2 working group. It holds d
 - The repository will hold any artifacts produced, unless more suitable places are available.
 
 #### Work group meetings
-- Bi-weekly using Google Meet, [Wednesday 12:00 UTC](https://meet.google.com/vnz-chhb-qxz)
-- Subscribe and join using [lu.ma calendar](https://lu.ma/cardano-scaling)
+- Bi-weekly on an alternating time schedule for Eastern / Western hemisphere using Google Meet, Wednesday 12:00 UTC and 17:00 UTC respectively.
+- Check next date/time, subscribe and join using [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
 - [`#wg-layer2`](https://discord.com/channels/1136727663583698984/1260242964513558548) on Intersect Discord [Invite link](https://discord.gg/cgesQH7xXC)
