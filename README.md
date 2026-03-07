@@ -41,7 +41,7 @@ Welcome to the documentation repository of the Layer 2 working group. It holds d
 - Check next date/time, subscribe and join using [lu.ma calendar](https://lu.ma/cardano-scaling)
 
 #### Collaboration channels
-- [`#wg-layer2`](https://discord.com/channels/1136727663583698984/1260242964513558548) on Intersect Discord [Invite link](https://discord.gg/cgesQH7xXC)
+- `#wg-layer2` on Intersect Discord [Invite link](https://discord.com/invite/RJWdVsMkvR)
 - [`#ask-hydra`](https://discord.com/channels/826816523368005654/890903732462710836) on IOG Discord [Invite link](https://discord.com/invite/Qq5vNTg9PT)
 
 #### How membership is governed
